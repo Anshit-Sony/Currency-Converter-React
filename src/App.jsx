@@ -37,7 +37,7 @@ function App() {
     <div
       className="w-full h-screen flex flex-wrap justify-center items-center bg-cover bg-no-repeat"
       style={{
-        backgroundImage: `url('https://images.pexels.com/photos/27441168/pexels-photo-27441168/free-photo-of-a-duck-swimming-in-the-water.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load')`,
+backgroundImage: `url('https://static.vecteezy.com/system/resources/previews/002/151/430/original/global-currency-exchange-icon-transfer-money-stock-market-abstract-background-vector.jpg')`,
       }}
     >
       <div className="w-full">
